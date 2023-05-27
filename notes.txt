@@ -1,0 +1,10 @@
+1) What is react?
+React is a javascript library for building user interfaces. Designed by Jorden Walke , a SE at facebook.  
+
+ 2) Whay we use react/ benefits of react?
+-> component based approach: A component is one of the core building block of react. Every application developed using react is made up of small pieces that are these components. Conponents make the task of building UIs much easier. 
+-> uses declarative approach: Declarative programming is like asking your friend to draw a ladscape but you don't care how they do it, you just need the landscape. Declarative programming is a programming paradigm that expresses the logic of computation without describing it's control flow.
+-> DOM updates are handled very carefully.
+-> Reusable code
+-> React is designed for speeed, speeed of implementing the application, simplicity and scalability.
+
