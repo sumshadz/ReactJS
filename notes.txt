@@ -14,4 +14,9 @@ React is a javascript library for building user interfaces. Designed by Jorden W
 -> To install react globally : npm install -g create-react-app    
 -> To check if react is installed : create-react-app --version
 -> To create a react app : create-react-app project1
--> To start server to view result : npm start
+-> To start development server to view result : npm start
+-> To start production version : npm run build
+
+4) What is stored in package.json?
+package.json is a file which is used to store all the associated metadata with the project and also the list dependency package.
+e.g. react , react-dom package these can be the dependency.
