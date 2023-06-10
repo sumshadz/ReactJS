@@ -20,3 +20,7 @@ React is a javascript library for building user interfaces. Designed by Jorden W
 4) What is stored in package.json?
 package.json is a file which is used to store all the associated metadata with the project and also the list dependency package.
 e.g. react , react-dom package these can be the dependency.
+
+5) Hooks
+6) Async-await
+7) Promises
