@@ -21,6 +21,11 @@ React is a javascript library for building user interfaces. Designed by Jorden W
 package.json is a file which is used to store all the associated metadata with the project and also the list dependency package.
 e.g. react , react-dom package these can be the dependency.
 
-5) Hooks
-6) Async-await
-7) Promises
+5)REST API?
+-> REpresentational State Transfer Application Programming Interface.
+-> It is a software that allows two applications to communicate with each other over the internet and through various devices. Everytime you access an app like facebook or check the wether on your smartphone, an API is used.
+-> Restful API is an architectural style for an api that used http request to access and use data.
+
+6) Hooks
+7) Async-await
+8) Promises
